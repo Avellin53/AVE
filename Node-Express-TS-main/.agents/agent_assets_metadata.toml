@@ -1,0 +1,44 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "2g2aZMthaEDi4oL5cP29_"
+uri = "file://artifacts/client/src/assets/images/hero-bg.png"
+type = "image"
+title = "luxury boardroom at dusk"
+
+[[generated]]
+id = "k8pHT9WLSxX-XCyRlqkMz"
+uri = "file://artifacts/client/src/assets/images/suit-mens.png"
+type = "image"
+title = "bespoke men's charcoal suit"
+
+[[generated]]
+id = "_rdgMAqlNsQbrbn-GL2e6"
+uri = "file://artifacts/client/src/assets/images/suit-womens.png"
+type = "image"
+title = "tailored women's obsidian blazer"
+
+[[generated]]
+id = "0r9CX4HaLlQM4QXAnwRGk"
+uri = "file://artifacts/client/src/assets/images/skincare-serum.png"
+type = "image"
+title = "luxury serum on dark slate"
+
+[[generated]]
+id = "bvmVP-W9IWtlVGlYavgW5"
+uri = "file://artifacts/client/src/assets/images/skincare-cream.png"
+type = "image"
+title = "matte black skincare jar"
+
+[[generated]]
+id = "7b4qILw59rLviSwbXmyir"
+uri = "file://artifacts/client/src/assets/images/atelier.png"
+type = "image"
+title = "tailoring dark fabric"
+
+[[generated]]
+id = "uZ8UjTnCzGAf_moKJ_hpO"
+uri = "file://artifacts/client/src/assets/images/lookbook-1.png"
+type = "image"
+title = "silhouetted figure in coat"
